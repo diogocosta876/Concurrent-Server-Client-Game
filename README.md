@@ -46,3 +46,8 @@ Very simple to use.
 - Fault Tolerance for 20 seconds
     - After 20sec the User that is On wins the Game
     - After 20sec if both Users are Off no one wins
+
+# Demo
+
+https://github.com/diogocosta876/Concurrent-Server-Client-Game/assets/24635445/06f807ec-4480-4431-a972-de3f9ec78274
+
